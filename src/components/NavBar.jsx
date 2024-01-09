@@ -40,7 +40,7 @@ function NavBar() {
                 className="btn btn-outline-light"
                 type="submit"
               >
-                <span class="arrow ">
+                <span className="arrow ">
                   <b>➔</b>
                 </span>{" "}
                 <i className="fa-solid fa-cart-shopping me-2"></i>
