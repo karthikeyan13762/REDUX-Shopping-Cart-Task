@@ -9,7 +9,7 @@ function Prroductcard() {
   const items = useSelector((state) => state.allCart.items);
   const dispatch = useDispatch();
 
-  console.log(items);
+
   return (
     <div className="container mt-5">
       <section className="container main-cartSection">
